@@ -46,7 +46,4 @@ This repository contains the full Flutter source code for the perfume app, inclu
 | **Google Fonts** | Typography |
 | **Flutter Animate** | UI animations |
 
----
-
-## 📂 Folder Structure
 
