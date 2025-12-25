@@ -1,5 +1,5 @@
 # 🌸 Nodhapp – Perfume Brand App  
-A modern Flutter application for discovering and shopping premium perfumes, fully integrated with **Supabase** for authentication, database, and storage.
+A modern Flutter application for discovering and shopping premium perfumes, fully integrated with Supabase for authentication, database, and storage.
 
 ---
 
